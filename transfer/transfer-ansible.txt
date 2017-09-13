@@ -1,0 +1,3 @@
+lcd ../ansible
+cd tmp
+put hosts

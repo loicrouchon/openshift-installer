@@ -1,0 +1,3 @@
+lcd ../tmp
+cd .ssh
+put id_rsa

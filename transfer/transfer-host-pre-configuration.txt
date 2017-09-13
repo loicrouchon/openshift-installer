@@ -1,0 +1,4 @@
+lcd ../scripts
+mkdir tmp
+cd tmp
+put host-pre-configuration.sh
