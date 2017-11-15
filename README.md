@@ -4,7 +4,7 @@
 
 This repository contains all the scripts necessary to create an openshift cluster. You must follow the instruction in the installer.
 
-This is Technology preview and do not ensure that it is 100% safe and ready for production but it will help you in creating your first cluster.
+This is Technology preview and do not ensure that it is 100% safe and ready for production but it will help you in creating your first cluster. So the author could not be responsible in case of error or security issues
 
 This is under MIT liscence so you can reuse it and contribute if you want :)
 
